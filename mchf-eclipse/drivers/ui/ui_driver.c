@@ -2277,7 +2277,7 @@ static void UiDriverShowBand(uchar band)
 //	 15-10m		0			1			x
 //
 // -------------------------------------------
-//
+// this is where i change band filters
 void UiDriverChangeBandFilter(uchar band,uchar bpf_only)
 {
 	if(bpf_only)
