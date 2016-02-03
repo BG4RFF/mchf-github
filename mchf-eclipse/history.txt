@@ -9,6 +9,10 @@
 #########################################################################
 #########################################################################
 
+20160201 [DF8OE]
+- beginning CAT implementation
+- beginning DIGI-modes implementation
+- added menu #332 mic-bias enable/disable
 
 
 20160130 [DF8OE]
